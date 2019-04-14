@@ -19,8 +19,10 @@ These data and files summarize public records related to Mark Kennedy's time cam
 * **indv_to_cmte_all_details.csv** - Detailed transactions from all cycles from individuals to Mark Kennedy
 
 ## Financial Statements
-* Department 56 - This directory contains annual (10-K) and quarterly (10-Q) reports from the SEC between 1996 and 2001
-* Pillsbury - This directory contains the annual reports for investors between 1983 and 1988
+* Department 56 - This directory contains PDFs of the 10-K filings and Annual Reports between 1994 and 2002
+* Federated Department Stores - This directory contains PDFs of the 10-K & S1 filings and Annual reports between 1987 and 1992
+* Pillsbury - This directory contains the 10-K filings and Annual Reports between 1983 and 1988
+* ShopKo - This directory contains the 10-K filings and Annual Reports between 1992 and 1996
 
 ## Data sources and documentation
 * "[Detailed Files About Candidates, Parties, and Other Committees](https://classic.fec.gov/finance/disclosure/ftpdet.shtml)". Federal Election Commission.
