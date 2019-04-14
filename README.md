@@ -3,7 +3,7 @@ These data and files summarize public records related to Mark Kennedy's time cam
 
 ## Congress
 * **NOMINATE.ipynb** - Jupyter Notebook for analyzing the "Hall_members.csv" and "house_presidental_support.csv"
-* **Hall\_members.csv*** - CSV with NOMINATE scores for members of Congress from VoteView
+* **Hall\_members.csv** - CSV with NOMINATE scores for members of Congress from VoteView
 * **house\_presidential\_support** - CSV with Presidential support scores for members of Congress from VoteView
 
 ## FEC
@@ -18,7 +18,7 @@ These data and files summarize public records related to Mark Kennedy's time cam
 * **indv_to_cmte_all_totals.csv** - Total contributions from all cycles from individuals to Mark Kennedy
 * **indv_to_cmte_all_details.csv** - Detailed transactions from all cycles from individuals to Mark Kennedy
 
-## Financial statements
+## Financial Statements
 * Department 56 - This directory contains annual (10-K) and quarterly (10-Q) reports from the SEC between 1996 and 2001
 * Pillsbury - This directory contains the annual reports for investors between 1983 and 1988
 
