@@ -25,8 +25,8 @@ These data and files summarize public records related to Mark Kennedy's time cam
 * **ShopKo** - This directory contains the 10-K filings and Annual Reports between 1992 and 1996. CUSIP: 824911; ISIN: US8249111019; CIK: 0000878314.
 
 ## Twitter
-* **markkennedyund.json** - Full JSON payloads of tweets, replies, and retweets from [@MarkKennedyUND](https://twitter.com/MarkKennedyUND)
-* **markkennedyund.csv** - Cleaned CSV of selected fields for tweets, replies, and retweets from [@MarkKennedyUND](https://twitter.com/MarkKennedyUND)
+* **markkennedyund.json** - Full JSON payloads of tweets, replies, and retweets from [@MarkKennedyUND](https://twitter.com/MarkKennedyUND) starting 13 December 2009.
+* **markkennedyund.csv** - Cleaned CSV of selected fields for tweets, replies, and retweets from [@MarkKennedyUND](https://twitter.com/MarkKennedyUND) starting 13 December 2009.
 
 ## Data sources and documentation
 * "[Detailed Files About Candidates, Parties, and Other Committees](https://classic.fec.gov/finance/disclosure/ftpdet.shtml)". Federal Election Commission.
