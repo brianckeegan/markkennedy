@@ -28,9 +28,15 @@ These data and files summarize public records related to Mark Kennedy's time cam
 * **markkennedyund.json** - Full JSON payloads of tweets, replies, and retweets from [@MarkKennedyUND](https://twitter.com/MarkKennedyUND) starting 13 December 2009.
 * **markkennedyund.csv** - Cleaned CSV of selected fields for tweets, replies, and retweets from [@MarkKennedyUND](https://twitter.com/MarkKennedyUND) starting 13 December 2009.
 
+## Feedback
+* **3-4-30-2019-feedback-commentspdf.txt** - text feedback from online feedback
+* **parse_feedback.py** - Python module to parse feedback with some cleaning into Pandas dataframe
+* **Demo.ipynb** - Notebook with example plot
+
 ## Data sources and documentation
 * "[Detailed Files About Candidates, Parties, and Other Committees](https://classic.fec.gov/finance/disclosure/ftpdet.shtml)". Federal Election Commission.
 * [EDGAR Company Filings](https://www.sec.gov/edgar/searchedgar/companysearch.html). Securities and Exchange Commission.
 * [NOMINATE](https://voteview.com/data). VoteView.
 * [Presidential Support Scores](https://voteview.com/articles/presidential_support_scores). VoteView.
 * [GET statuses/user\_timeline](https://developer.twitter.com/en/docs/tweets/timelines/api-reference/get-statuses-user_timeline.html). Twitter.
+* [Feedback PDF](https://www.cu.edu/doc/3-4-30-2019-feedback-commentspdf) converted with `pdftotext -layout`
